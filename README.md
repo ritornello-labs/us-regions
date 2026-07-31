@@ -9,9 +9,6 @@ An Anki deck generator for the U.S. Census Bureau's four regions and nine divisi
 
 ![U.S. regions card preview](docs/screenshots/readme-preview.png)
 
-[Real Anki review](https://ritornello.dev/media/ankiweb/2026-07-31/us-regions/preview.gif)
-· [MP4 video](https://ritornello.dev/media/ankiweb/2026-07-31/us-regions/demo.mp4)
-
 ## Download
 
 Install the shared deck from [AnkiWeb](https://ankiweb.net/shared/info/778756695).
