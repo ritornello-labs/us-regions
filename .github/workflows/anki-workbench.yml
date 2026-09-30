@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 env:
-  WORKBENCH_VERSION: "0.4.0"
+  # Pin the tested Anki installer fix until the next Workbench PyPI release.
+  WORKBENCH_REF: "de1aa35f9510d0c78d89e915d5ddfcaa634e6343"
 
 jobs:
   deck-smoke:
@@ -18,6 +19,8 @@ jobs:
           python-version: "3.12"
       - uses: astral-sh/setup-uv@v6
       - name: Install Anki Workbench
-        run: pip install "anki-addon-workbench[gui]==${WORKBENCH_VERSION}"
+        run: |
+          npm install -g sfw
+          sfw uv pip install --system --exclude-newer "7 days" "anki-addon-workbench[gui] @ git+https://github.com/ritornello-labs/anki-addon-workbench.git@${WORKBENCH_REF}"
       - name: Build APKG and run disposable Anki smoke
         run: make UV="uv" workbench-smoke
