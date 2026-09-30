@@ -19,3 +19,5 @@ Map-based Anki cards for the U.S. Census Bureau's four regions and nine division
 GitHub: [https://github.com/ritornello-labs/us-regions](https://github.com/ritornello-labs/us-regions)
 
 The deck teaches region/division names, membership, neighboring regions or divisions, and locator-map recognition. Source data, map provenance, and the reproducible build workflow are documented in the GitHub repository.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

@@ -124,3 +124,5 @@ Map provenance is documented in [`data/raw/us_map_asset_sources.csv`](data/raw/u
 ## License
 
 Repository code and documentation are MIT licensed. Source maps and reference data keep their upstream licenses and attribution requirements as documented in the data manifests.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
