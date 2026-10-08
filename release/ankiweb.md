@@ -14,9 +14,49 @@ Learn the U.S. Census Bureau's [four regions and nine divisions](https://en.wiki
 
 ## See it in Anki
 
-![Identify the Northeast region from its highlighted map](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/map.gif)
+Four region templates and six division templates are shown below. Each GIF holds the question for two seconds and the answer for three.
 
-The example identifies the Northeast from its locator map. Source data, map provenance, and the reproducible build workflow are documented in the repository.
+### Region → neighbours
+
+![Region → neighbours: West](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-neighbors.gif)
+
+### Region → location
+
+![Region → location: South](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-locate.gif)
+
+### Highlighted map → region
+
+![Highlighted map → region: Northeast](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-identify.gif)
+
+### Region → divisions
+
+![Region → divisions: Midwest](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-divisions.gif)
+
+### Division → region
+
+![Division → region: New England](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-region.gif)
+
+### Division → neighbours
+
+![Division → neighbours: Mountain](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-neighbors.gif)
+
+### Division → location
+
+![Division → location: West South Central](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-locate.gif)
+
+### Highlighted map → division
+
+![Highlighted map → division: East North Central](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-identify.gif)
+
+### Division → member states
+
+![Division → member states: Pacific](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-states.gif)
+
+### Division → state borders
+
+![Division → state borders: Mid-Atlantic](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/division-borders.gif)
+
+Source data, map provenance, and the reproducible build workflow are documented in the repository.
 
 GitHub: [https://github.com/ritornello-labs/us-regions](https://github.com/ritornello-labs/us-regions)
 
