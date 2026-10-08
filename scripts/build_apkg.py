@@ -326,6 +326,14 @@ def shared_css() -> str:
 .wiki-link:hover{
   text-decoration:underline;
 }
+
+/* Keep the page gradient continuous beneath short and long cards. */
+.card {
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
 """
 
 
@@ -527,6 +535,14 @@ def division_css() -> str:
 
 .wiki-link:hover{
   text-decoration:underline;
+}
+
+/* Keep the page gradient continuous beneath short and long cards. */
+.card {
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
 }
 """
 
