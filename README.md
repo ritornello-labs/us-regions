@@ -7,9 +7,9 @@
 
 An Anki deck generator for the U.S. Census Bureau's four regions and nine divisions, with map-based cards for regions, divisions, and member states.
 
-[![U.S. region recall, reveal, and next card](https://ritornello.dev/media/ankiweb/2026-07-31-v2/us-regions/preview.gif)](https://ritornello.dev/media/ankiweb/2026-07-31-v2/us-regions/demo.mp4)
+![U.S. region recall, reveal, and next card](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-neighbors.gif)
 
-The animation is hosted with the public listing media at ritornello.dev; click it for the full-resolution MP4. [Browse all U.S. Regions samples](https://ritornello.dev/#us-regions).
+[Browse all U.S. Regions samples](https://ritornello.dev/#us-regions).
 
 ## Download
 
