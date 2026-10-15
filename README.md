@@ -1,5 +1,7 @@
 # us-regions
 
+[Explore all Ritornello decks and add-ons](https://ritornello.dev/).
+
 [![Anki Workbench](https://github.com/ritornello-labs/us-regions/actions/workflows/anki-workbench.yml/badge.svg)](https://github.com/ritornello-labs/us-regions/actions/workflows/anki-workbench.yml)
 [![AnkiWeb](https://img.shields.io/badge/AnkiWeb-shared_deck-15a5ef)](https://ankiweb.net/shared/info/778756695)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)
@@ -10,6 +12,8 @@ An Anki deck generator for the U.S. Census Bureau's four regions and nine divisi
 ![U.S. region recall, reveal, and next card](https://ritornello.dev/media/ankiweb/2026-10-07-v7/us-regions/region-neighbors.gif)
 
 [Browse all U.S. Regions samples](https://ritornello.dev/#us-regions).
+
+Download the archived `.apkg` from the [latest tagged GitHub release](https://github.com/ritornello-labs/us-regions/releases/latest).
 
 ## Download
 
